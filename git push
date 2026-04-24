@@ -1,0 +1,6 @@
+git rm -r --cached src
+git add src
+git commit -m "Fix directory casing in Git"
+git push
+
+
